@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a0ed3f8-1d0d-417d-96dc-2598dadf8e45" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d70a86e3535004f0dc9b06445ddf6224e914b95b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbe3e35a744614107795375cfc96768b32bd6c1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Back-Tracking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/HSBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/BackTrackingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/unit/HSBCUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unit/BackTrackingUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/unit/WordUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unit/WordUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HSBC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/HSBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/unit/HSBCUnit.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbcfIjpBJJTOHhSE16s3ONPP8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BackTrackingTest">
+    <configuration name="BackTrackingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.BackTrackingTest" />
+      <module name="BackTracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackTrackingUnit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unit.BackTrackingUnit" />
+      <module name="Back-Tracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unit.BackTrackingUnit" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HSBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.HSBCTest" />
+      <module name="Back-Tracking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BackTrackingTest" />
+        <item itemvalue="Application.HSBCTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a0ed3f8-1d0d-417d-96dc-2598dadf8e45" name="Default Changelist" comment="" />
+      <created>1581318337068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581318337068</updated>
+      <workItem from="1581318340091" duration="16218000" />
+      <workItem from="1581383456793" duration="75000" />
+      <workItem from="1581389959804" duration="2218000" />
+      <workItem from="1581392319674" duration="1295000" />
+      <workItem from="1581406465287" duration="137000" />
+      <workItem from="1581406699752" duration="119000" />
+    </task>
+    <task id="LOCAL-00001" summary="HSBC">
+      <created>1581392005570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581392005570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HSBC" />
+    <option name="LAST_COMMIT_MESSAGE" value="HSBC" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="182" key="#BackTrackingTest" timestamp="1581406757851">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="653" y="182" key="#BackTrackingTest/0.0.1920.1050@0.0.1920.1050" timestamp="1581406757851" />
+    <state x="552" y="184" key="#Project_Structure" timestamp="1581406596005">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1581406596005" />
+    <state x="663" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581319230081">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="663" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581319230081" />
+    <state x="739" y="405" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581319233663">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="405" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1581319233663" />
+    <state x="649" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581406578521">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="649" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581406578521" />
+    <state x="560" y="118" key="CommitChangelistDialog2" timestamp="1581392002231">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="118" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1581392002231" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1581318367885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581318367885" />
+    <state width="1877" height="390" key="GridCell.Tab.0.bottom" timestamp="1581406787018">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581406787018" />
+    <state width="1877" height="390" key="GridCell.Tab.0.center" timestamp="1581406787018">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581406787018" />
+    <state width="1877" height="390" key="GridCell.Tab.0.left" timestamp="1581406787017">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581406787017" />
+    <state width="1877" height="390" key="GridCell.Tab.0.right" timestamp="1581406787018">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581406787018" />
+    <state width="1877" height="390" key="GridCell.Tab.1.bottom" timestamp="1581406786807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581406786807" />
+    <state width="1877" height="390" key="GridCell.Tab.1.center" timestamp="1581406786807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581406786807" />
+    <state width="1877" height="390" key="GridCell.Tab.1.left" timestamp="1581406786807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581406786807" />
+    <state width="1877" height="390" key="GridCell.Tab.1.right" timestamp="1581406786807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581406786807" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1581318370886">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581318370886" />
+    <state x="690" y="290" key="extract.method.dialog" timestamp="1581329319796">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="290" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581329319796" />
+    <state x="636" y="258" width="647" height="534" key="find.popup" timestamp="1581406817229">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="636" y="258" width="647" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581406817229" />
+    <state x="334" y="220" key="new project wizard" timestamp="1581393035581">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="220" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581393035581" />
+  </component>
+</project>
